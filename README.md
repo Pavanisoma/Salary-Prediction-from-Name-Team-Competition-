@@ -1,10 +1,8 @@
-# Salary-Prediction-from-Name-Team-Competition-
+# Salary-Prediction-from-Name
 
 DATASETS:
 1)LinkedIn dataset (2016 - 2018): 
-Original dataset had 2 million records (~10GB)
-Result: 38,606 entries for most recent job in the bay area
-Information: Name, industry, jobs
+The Original dataset had 2 million records (~10GB)but we have considered  most recent jobs in the bay area(38,606 entries)for modeling
 reference (Yutao Zhang, Jie Tang, Zhilin Yang, Jian Pei, and Philip Yu. COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency. In Proceedings of the Twenty-First ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'15 ).)
 
 2)US Bureau of Labor Statistics - Salary dataset (2018):
