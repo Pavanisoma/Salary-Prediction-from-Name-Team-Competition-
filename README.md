@@ -1,4 +1,4 @@
-# Team Hackathon Project
+# Personal Journal
 Payments API
 
 ACTIONS:
@@ -17,7 +17,6 @@ ACTIONS:
 TODO:
 
 1.Implement Mongo cluster sharding.
-2.Deploy in Kubernetes docker.
 
 
 **APIs to process payments
