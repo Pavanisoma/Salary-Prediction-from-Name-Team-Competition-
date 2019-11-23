@@ -13,10 +13,7 @@ ACTIONS:
 
 3.Deploy mongo cluster in AWS for testing.
 4.Deploy application in AWS docker and test the application, checked database after add/delete payments.
-
-TODO:
-
-1.Implement Mongo cluster sharding.
+5.Implement Mongo cluster sharding.
 
 
 **APIs to process payments
