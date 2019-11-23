@@ -12,7 +12,9 @@ ACTIONS:
 * Delete a payment (DELETE)
 
 3.Deploy mongo cluster in AWS for testing.
+
 4.Deploy application in AWS docker and test the application, checked database after add/delete payments.
+
 5.Implement Mongo cluster sharding.
 
 
