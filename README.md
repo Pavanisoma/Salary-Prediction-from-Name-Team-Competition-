@@ -1,12 +1,12 @@
 
 #Team
 
-Hoang Thy Vo, 012562615
+Hoang Thy Vo
 
-Preethi Thimma Govarthanarajan, 012561406
+Preethi Thimma Govarthanarajan
 
-Surya Teja Sonti, 012535523
+Surya Teja Sonti
 
-Lishan Zhu, 011809213
+Lishan Zhu
 
-Pavani Somarouthu, 013723944
+Pavani Somarouthu
