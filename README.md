@@ -1,12 +1,12 @@
 
-Team
+Team:
 
-Hoang Thy Vo
+1. Hoang Thy Vo
 
-Preethi Thimma Govarthanarajan
+2. Preethi Thimma Govarthanarajan
 
-Surya Teja Sonti
+3. Surya Teja Sonti
 
-Lishan Zhu
+4. Lishan Zhu
 
-Pavani Somarouthu
+5. Pavani Somarouthu
